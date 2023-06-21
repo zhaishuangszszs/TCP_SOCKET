@@ -1,0 +1,2 @@
+gcc socket.c sever.c -o sever
+gcc socket.c client.c -o client
